@@ -1,3 +1,5 @@
+## Project
+
 ## set working directory of file location
 setwd("C:\\Courses\\Getting_and_Cleaning_Data")
 
